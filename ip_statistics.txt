@@ -1,0 +1,45 @@
+IPv4 Statistics:
+IP: 192.168.0.10
+  From: 298
+
+IP: 224.0.0.251
+  To: 99
+
+IP: 239.255.255.250
+  To: 512
+
+IP: 224.0.0.252
+  To: 65
+
+IP: 127.0.0.1
+  From: 167
+  To: 137
+
+IP: 192.168.10.1
+  From: 174
+
+IP: 192.168.222.1
+  From: 420
+  To: 246
+
+
+IPv6 Statistics:
+IP: ::1
+  From: 15146
+  To: 15146
+
+IP: fe80::2def:3d50:e290:b8df
+  From: 26
+
+IP: ff02::fb
+  To: 63
+
+IP: fe80::f061:139d:9433:1382
+  From: 26
+
+IP: fe80::b88:20f7:688:46e8
+  From: 26
+
+IP: ff02::1:3
+  To: 15
+
